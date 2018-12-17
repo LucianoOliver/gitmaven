@@ -3,7 +3,7 @@
 
   <groupId>hellowordtwo</groupId>
   <artifactId>hellowordtwo</artifactId>
-  <version>0.0.3</version>
+  <version>0.0.3-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>helloword</name>
@@ -37,7 +37,7 @@
 		<connection>scm:git:git@github.com:LucianoOliver/gitmaven.git</connection>
 		<developerConnection>scm:git:git@github.com:LucianoOliver/gitmaven.git</developerConnection>
 		<url>https://github.com/LucianoOliver/gitmaven.git</url>
-	  	<tag>v0.0.3</tag>
+	  	<tag>HEAD</tag>
   </scm>
   
   
