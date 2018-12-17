@@ -24,7 +24,7 @@ hs_err_pid*
 /.metadata/
 
 **/*.releaseBackup
-**/*.pom.properties
+**/*pom.properties
 **/release.properties
 **/target
 *.releaseBackup
