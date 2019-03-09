@@ -3,7 +3,7 @@
 
   <groupId>helloword</groupId>
   <artifactId>helloword</artifactId>
-  <version>0.0.10</version>
+  <version>0.0.11-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>helloword</name>
